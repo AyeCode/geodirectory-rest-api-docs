@@ -5,7 +5,7 @@ on:
       - trunk
 jobs:
   build-and-deploy:
-    if: github.repository_owner == 'geodirectory'
+    if: github.repository_owner == '1naveengiri'
     name: Build and deploy
     runs-on: ubuntu-latest
     steps:
