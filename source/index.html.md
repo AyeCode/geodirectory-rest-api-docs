@@ -18,6 +18,7 @@ includes:
   - gd-api/countries
   - gd-api/fields
   - gd-api/markers
+  - gd-api/posts
   - gd-api/types
   - gd-api/reviews
   - gd-api/settings
