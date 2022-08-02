@@ -14,7 +14,7 @@ REST API End Points to access map markers data.
 
 ## Retrieve a Marker Data ##
 
-This API lets you retrieve and view a specific field by name.
+This API lets you retrieve and view a specific marker by post type.
 
 ### HTTP request ###
 
@@ -67,7 +67,7 @@ curl https://example.com//wp-json/geodir/v2/markers \
 
 ## Retrieve a Single Marker Data ##
 
-This API lets you retrieve and view a specific field by name.
+This API lets you retrieve and view a specific marker by post id.
 
 ### HTTP request ###
 
